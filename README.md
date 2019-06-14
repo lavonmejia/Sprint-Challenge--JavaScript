@@ -37,14 +37,14 @@ Edit this document to include your answers after each question. Make sure to lea
 3. What is closure?
 <br> A closure gives you access to an outer function’s scope from an inner function.
 
-4. Describe the four rules of the 'this' keyword.
-<br>
+4. Describe the four rules of the 'this' keyword.<br>
 	1. Global/Window
 	2. Implicit Binding
 	3. New Binding
 	4. Explicit binding
 
 5. Why do we need super() in an extended class?
+
 <br>Super is the method that inherits the properties from the extended class
 
 
